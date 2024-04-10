@@ -1,5 +1,3 @@
-# Mantine Vite template
+# A project to schedule appointments for freelancers
 
-Get started with the template by clicking `Use this template` button on the top of the page.
-
-[Documentation](https://mantine.dev/guides/vite/)
+## This project aims to ease the burden for freelancers to maintain an appointment schedule
